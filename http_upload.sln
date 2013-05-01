@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "http_upload", "http_upload.vcxproj", "{EEB8A6E1-F5D3-43F8-9758-3F6D1A25A1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB8A6E1-F5D3-43F8-9758-3F6D1A25A1EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEB8A6E1-F5D3-43F8-9758-3F6D1A25A1EA}.Debug|Win32.Build.0 = Debug|Win32
+		{EEB8A6E1-F5D3-43F8-9758-3F6D1A25A1EA}.Release|Win32.ActiveCfg = Release|Win32
+		{EEB8A6E1-F5D3-43F8-9758-3F6D1A25A1EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
